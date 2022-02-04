@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JongHwaShin
+- 👋 Hi, I’m @JongHwa Shin
 - 👀 I’m interested in Coding,Music
 - 🌱 I’m currently learning Python,Django
 - 💞️ I’m looking to collaborate on Anything

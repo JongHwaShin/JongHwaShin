@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JongHwa Shin
 - 👀 I’m interested in Coding,Music
-- 🌱 I’m currently learning Python,Django
+- 🌱 I’m currently learning Python,Django,Spring Boot,JPA
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me tls1403@naver.com
 

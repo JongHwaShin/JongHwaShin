@@ -1,7 +1,7 @@
 Hi 👋 My name is JONGHWA SHIN 
 Web Developer  Wanna be Back-end Engineer 
 * 🌍  I'm based in Changwon 
-* * 🧠  I'm learning Spring framework
+* 🧠  I'm learning Spring framework
 
 ### Skills
 

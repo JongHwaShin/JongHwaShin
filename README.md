@@ -1,6 +1,6 @@
 Hi 👋 My name is JONGHWA SHIN 
 Web Developer  Wanna be Back-end Engineer 
-* 🌍  I'm based in Seoul 
+* 🌍  I'm living in Seoul 
 * 🧠  I am using Spring and Vue as a web developer.
 
 ### Skills

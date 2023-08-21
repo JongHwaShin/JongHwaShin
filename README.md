@@ -12,8 +12,8 @@
     <a href="https://www.instagram.com/jonghwwass/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
-    <a href="mailto:tls1403@naver.com">
-        <img src="https://img.shields.io/badge/Mail-005FF9?style=for-the-badge&logo=maildotru&logoColor=white"> 
+    <a href="mailto:tls140312@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
 

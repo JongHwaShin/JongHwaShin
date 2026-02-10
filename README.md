@@ -30,17 +30,6 @@
 
 <br><br>
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=JongHwaShin&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true&show_icons=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JongHwaShin&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=JongHwaShin&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br><br>
-
 ## 🛠️ Tech Stack
 
 **Languages**
